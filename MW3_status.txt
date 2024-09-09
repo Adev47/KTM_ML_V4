@@ -1,2 +1,3 @@
 LOUD CHAIR,online,1.00.05,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/LOUDCHAIR_1.exe
 Silent + Woofer,online,1.00.01,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Silent_2.exe
+LOUD CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/LOUDCHAIR_1.exe
