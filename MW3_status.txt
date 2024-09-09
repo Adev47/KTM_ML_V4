@@ -1,3 +1,3 @@
-SILENT + WOOFER,updating,1.00.02,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Silent_1.exe
+SILENT + WOOFER,updating,1.00.03,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Silent_Chair.exe
 LOUD CHAIR,updating,1.00.03,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/LOUD_CHAIR.exe
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/nRi28Wtqb1.exe
