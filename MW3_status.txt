@@ -1,4 +1,4 @@
 Silent + Woofer,online,1.00.06,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Silent_5.exe
 Loud Chair,online,1.00.04,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/ldr_lsoa94.exe
 Unlock All,online,1.00.03,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/nRi28Wtqb1_1.exe
-Inferno,online,1.00.03,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Inferno_2.exe
+Inferno,online,1.00.04,https://raw.githubusercontent.com/Adev47/KTM_ML_V4/main/uploads/Inferno_3.exe
