@@ -1,0 +1,13 @@
+[design]
+highlight_color = #ff5400
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/C6qKz6vwW4
+guide_link = https://ktm.gitbook.io/ktm-guide/
+website_link = https://ktmshopservice.sellpass.io
+
+[rounded_corners]
+main_widgets = 12
