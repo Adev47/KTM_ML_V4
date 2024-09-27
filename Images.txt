@@ -11,7 +11,6 @@ SPOOFERS,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_clo
 VALORANT,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 R6,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 CS2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
-CS2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 FORTNITE,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
 RUST,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/rust_wallp_v4.png
 APEX,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/default_category_wallp.png
